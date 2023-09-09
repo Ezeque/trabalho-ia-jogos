@@ -1,0 +1,14 @@
+C:\Users\Ezequiel\iaJogosI\bin\Debug\net7.0\iaJogosI.exe
+c:\Users\Ezequiel\iaJogosI\bin\Debug\net7.0\iaJogosI.deps.json
+c:\Users\Ezequiel\iaJogosI\bin\Debug\net7.0\iaJogosI.runtimeconfig.json
+C:\Users\Ezequiel\iaJogosI\bin\Debug\net7.0\iaJogosI.dll
+C:\Users\Ezequiel\iaJogosI\bin\Debug\net7.0\iaJogosI.pdb
+C:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\iaJogosI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\iaJogosI.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\iaJogosI.AssemblyInfo.cs
+C:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\iaJogosI.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\iaJogosI.dll
+C:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\refint\iaJogosI.dll
+C:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\iaJogosI.pdb
+c:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\iaJogosI.genruntimeconfig.cache
+c:\Users\Ezequiel\iaJogosI\obj\Debug\net7.0\ref\iaJogosI.dll
