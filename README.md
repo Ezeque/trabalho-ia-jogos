@@ -1,4 +1,4 @@
-# Implementação De Ordenação Topológica com C
+# Implementação De Ordenação Topológica com C\#
 
 ## Sobre o Trabalho: 
 No trabalho, foi escolhido um elemento de um jogo e modelado na forma de uma matriz de dependência. Após isso, foi aplicado na mesma o algoritmo de ordenação topológica e imprimida a ordem resultante.
